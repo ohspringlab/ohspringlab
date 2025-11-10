@@ -140,11 +140,9 @@
   </tr>
 </tbody></table></markdown-accessiblity-table>
 
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🏆 GitHub Profile Trophy</h2>
 
-</div>
 
-## 
+## 🏆 GitHub Profile Trophy
 ![](https://github-profile-trophy.vercel.app/?username=aguennoune&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!-- 📊 GitHub Stats (Gradient Mode) -->
 <p align="center"> 
