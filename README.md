@@ -30,6 +30,14 @@
       <br>Next.js
     </td>
     <td align="center" width="90">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/24c2ad5638255b73cd86d97a3857d17f5e500bc2ead06dc4e2213d366e6e5e06/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d767565"><img src="https://camo.githubusercontent.com/24c2ad5638255b73cd86d97a3857d17f5e500bc2ead06dc4e2213d366e6e5e06/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d767565" width="45" height="45" alt="Vue" data-canonical-src="https://skillicons.dev/icons?i=vue" style="max-width: 100%; height: auto; max-height: 45px;"></a>
+      <br>Vue
+    </td>
+    <td align="center" width="90">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/58385ee41ed8be54b0f034aeebe4597d5a253f7c8f1a1be2cc5a191bd10df219/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e7578746a73"><img src="https://camo.githubusercontent.com/58385ee41ed8be54b0f034aeebe4597d5a253f7c8f1a1be2cc5a191bd10df219/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e7578746a73" width="45" height="45" alt="Nuxt.js" data-canonical-src="https://skillicons.dev/icons?i=nuxtjs" style="max-width: 100%; height: auto; max-height: 45px;"></a>
+      <br>Nuxt.js
+    </td>
+    <td align="center" width="90">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2c8001fd6c104a232ebb3cddc6f58dad15ac4e58d9063477da6b0420c44a1b66/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d616e67756c6172"><img src="https://camo.githubusercontent.com/2c8001fd6c104a232ebb3cddc6f58dad15ac4e58d9063477da6b0420c44a1b66/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d616e67756c6172" width="45" height="45" alt="Angular" data-canonical-src="https://skillicons.dev/icons?i=angular" style="max-width: 100%; height: auto; max-height: 45px;"></a>
       <br>Angular
     </td>
@@ -130,7 +138,6 @@
       <br>Android
     </td>
     </tr>
- 
 </tbody></table></markdown-accessiblity-table>
 
 
