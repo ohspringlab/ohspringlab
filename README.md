@@ -144,7 +144,7 @@
 
 </div>
 
-## 🏆 GitHub Trophies
+## 
 ![](https://github-profile-trophy.vercel.app/?username=aguennoune&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!-- 📊 GitHub Stats (Gradient Mode) -->
 <p align="center"> 
