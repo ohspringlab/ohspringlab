@@ -145,11 +145,11 @@
 ## 🏆 GitHub Profile Trophy
 ![](https://github-profile-trophy.vercel.app/?username=aguennoune&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!-- 📊 GitHub Stats (Gradient Mode) -->
-<p align="center"> 
+<!-- <p align="center"> 
   <img width="33%" src="https://github-readme-stats.vercel.app/api?username=ohspringlab&show_icons=true&theme=react&hide_border=true&border_radius=10" /> 
   <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohspringlab&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
   <img width="33%" src="https://github-readme-stats.vercel.app/api?username=ohspringlab&show_icons=true&theme=react&hide_border=true&border_radius=10" />
-</p> -->
+</p> --> -->
 
 
 
